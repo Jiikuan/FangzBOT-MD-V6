@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣 」' //Wm
+global.wm = '           「 𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣 」' //Wm
 global.wm2 = '➳༻❀𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣❁ུ۪۪.;:୭̥.' //Name Wm
 global.wm3 = '⫹⫺ 𝕵𝖎𝖎𝖐𝖚𝖆𝖓 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣' //Ganti serah lu
-global.author = '                ✧ 𝙕𝙮𝙠𝙪𝙖𝙣 ✧' //Wm author
+global.author = '✧ 𝙕𝙮𝙠𝙪𝙖𝙣 ✧ | WANGSAFF BOT+6282133532380' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
