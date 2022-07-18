@@ -38,33 +38,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
-global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
+global.sig = '-' //Instagram mu
+global.sgh = 'https://github.com/AmakawaZKN' //Github mu
+global.sgc = '-' //Group WhatsApp mu
+global.sdc = '-' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '088215689772' //Dana
-global.povo = '088215689772' //Ovo
-global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
-global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
+global.pqris = 'https://telegra.ph/file/d68fb42e3f7128a8b5096.jpg' //qris
+global.psaweria = 'https://saweria.co/Zykuan' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6282133532380' //Nomor Bot mu
+global.nomorown = '628979440862' //Nomormu
+global.namebot = '𝕵𝖎𝖎𝖐𝖚𝖆𝖓' //Nama bot mu
+global.nameown = '𝙕𝙮𝙠𝙪𝙖𝙣' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6288215689772'], //Owner1
-  ['6288215689772'], //Owner2
-  ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['628979440862'], //Owner1
+  ['628979440862'], //Owner2
+  ['628979440862'], //Owner3
+  ['628979440862', '𝙕𝙮𝙠𝙪𝙖𝙣 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,21 +109,21 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 Fangz BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm = '                「 𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣 」' //Wm
+global.wm2 = '➳༻❀𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '⫹⫺ 𝕵𝖎𝖎𝖐𝖚𝖆𝖓 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: FANGZ BOT' //Ganti serah lu
-global.author = '                ✧ Fangz BOT⁩ ✧' //Wm author
+global.titlebot = '𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣' //Ganti serah lu
+global.author = '                ✧ 𝙕𝙮𝙠𝙪𝙖𝙣 ✧' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg' //Thumbnail nya
-global.thumb2 = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg' //Thumbnail 2
-global.thumbbc = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg' //Image Bcgcb
-global.giflogo = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg' //Bebas
+global.thumb = 'https://telegra.ph/file/478213f01c1b3de089267.jpg' //Thumbnail nya
+global.thumb2 = 'https://telegra.ph/file/478213f01c1b3de089267.jpg' //Thumbnail 2
+global.thumbbc = 'https://telegra.ph/file/478213f01c1b3de089267.jpg' //Image Bcgcb
+global.giflogo = 'https://telegra.ph/file/9c06d2e24e3734740a409.jpg' //Bebas
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 //global.fla Jangan di ganti
@@ -143,7 +139,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/0b42f219535e17ade5e48.jpg' //Ganti jadi foto Bot
+global.thumbdoc = 'https://telegra.ph/file/9c06d2e24e3734740a409.jpg' //Ganti jadi foto Bot
 
 /*⫘⫘⫘⫘ FAKE SIZE ⫘⫘⫘⫘⫘*/
 global.fsizedoc = '99999999999999' // 10TB
@@ -162,7 +158,7 @@ global.cmenut = '✦╍╌╌╍╌╌╍ ◸'                       //top
 global.cmenuh = '◿ ╍╌╌╍╌╌╍'                        //header
 global.cmenub = '│⌕ '                            //body
 global.cmenuf = '╰───···─────\n'                //footer
-global.cmenua = '\nજ By Fangz\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕     ' //after
+global.cmenua = '\nજ By 𝙕𝙮𝙠𝙪𝙖𝙣\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕     ' //after
 global.pmenus = '│'                              //pembatas menu selector
 
 global.htki = '––––––◸' // Hiasan Titile (KIRI)
@@ -173,8 +169,8 @@ global.htjava = '𖥸'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FANGZ BOT'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickpack = '𝕵𝖎𝖎𝖐𝖚𝖆𝖓'
+global.stickauth = `© 𝙕𝙮𝙠𝙪𝙖𝙣\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
