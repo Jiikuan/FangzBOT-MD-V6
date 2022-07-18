@@ -2,18 +2,13 @@ let handler = async (m, { conn }) => {
 let info = `
 *${htki} DONASI ${htka}*
 
-2022 FangzBot Official 
+𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣 
 `
 const sections = [
    {
 	title: `METODE`,
 	rows: [
-	    {title: "?Dana", rowId: '.donasidana', description: 'Bayar melalui Dana' },
-	    {title: "?Gopay", rowId: '.donasigopay', description: 'Bayar melalui Gopay' },
-	{title: "?Ovo", rowId: '.donasiovo', description: 'Bayar melalui Ovo' },
-	{title: "?Motion Pay", rowId: '.donasimotionpay', description: 'Bayar melalui Motion Pay' },
-	{title: "?Pulsa Smartfren", rowId: '.donasismartfren', description: 'Bayar melalui pulsa' },
-	{title: "?Pulsa Tri3", rowId: '.donasiastri', description: 'Bayar melalui pulsa' },
+	    {title: "?Allpay", rowId: '.donasiallpay', description: 'Bayar melalui apa saja' },
 	]
     }, 
 
