@@ -10,7 +10,7 @@ let text = `${htki} *TUTORIAL* ${htka}
 4) $ pkg install imagemagick
 5) $ pkg install nodejs
 
-🔴–¸ *Untuk Sc nya cari sendiri, atau beli sc ku*
+🔴–¸ *Untuk Sc nya cari sendiri, atau beli sc*
 6) $ termux-setup-storage
 7) $ cd storage/downloads/(nama file yg kmu rename)
 
