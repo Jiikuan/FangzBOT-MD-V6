@@ -18,7 +18,7 @@ _Kebijakan privasi atau Private without being in public_
 
 • Jika ada bug/eror di website kami saya mohon untuk Report nya, tanpa biaya dan aman
 
-_Cara penggunaan Fangz BOT Agar terhindar dari Suspand_
+_Cara penggunaan Jiikuan BOT Agar terhindar dari Suspand_
 
 • *Peraturan WhatsApp Bot:*
 1. Users dilarang menelpon maupun memvideo call nomor bot.
@@ -29,7 +29,7 @@ _Cara penggunaan Fangz BOT Agar terhindar dari Suspand_
 
 • *Note:*
 1. Jika ada yang menjual/beli/sewa bot atas nomor ini, harap segera hubungi owner!
-2. Jika ingin donasi bisa langsung aja ya social payment Dana 
+2. Jika ingin donasi bisa langsung aja ya social payment 
 3. Ketik .sewa Jika Ingin SewaBot 
 
 •Agar terhindar dari Suspand/Ban kalian bisa membaca juga di Peraturan kami.
